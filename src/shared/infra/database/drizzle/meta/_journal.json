@@ -8,6 +8,13 @@
       "when": 1773098560991,
       "tag": "0000_deep_peter_quill",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1773762980576,
+      "tag": "0001_light_pride",
+      "breakpoints": true
     }
   ]
 }
