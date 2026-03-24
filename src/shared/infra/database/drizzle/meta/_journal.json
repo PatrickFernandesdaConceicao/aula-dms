@@ -15,6 +15,13 @@
       "when": 1773762980576,
       "tag": "0001_light_pride",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1774369138608,
+      "tag": "0002_mighty_morgan_stark",
+      "breakpoints": true
     }
   ]
 }
